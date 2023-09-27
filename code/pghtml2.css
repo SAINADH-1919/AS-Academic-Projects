@@ -1,0 +1,243 @@
+#div1{
+    margin-top: -10px;
+    background-color: white;
+    min-height: 70px;
+    position: fixed;
+    width: 100%;
+    margin-left: -10px;
+    box-shadow: -0px 2px 4px black;
+    box-sizing: border-box;
+}
+
+#nav1{
+    float: left;
+    line-height: 70px;
+    
+
+}
+#nav1 a{
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+    color:#242323;
+    font-weight: 100px;
+    font-size: 17px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+#div12{
+    float: right;
+    padding: 10px;
+    height: 20px;
+    margin-left: 760px; 
+    
+    border-radius: 10px;
+}
+#div12>a{
+    background-color: rgb(15, 15, 15);
+    color: rgb(248, 244, 244);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+
+}
+#divmain>h1{
+    margin-top: -5px;
+    color: black;
+    font-size: 40px;
+}
+#divmain>p{
+    color: white;
+    font-size: 20px;
+}
+#div12>a{
+    background-color: rgb(15, 15, 15);
+    color: rgb(248, 244, 244);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+#div1012{
+    background-color: #0196C0;
+    height: 400px;
+    margin-top: 10px;
+
+}
+#div10{
+    float: left;
+    padding-left: 40px;
+    line-height: 25px;
+}
+
+#div10>a{
+    margin-left: 0px;
+    padding-left: 40px;
+    text-decoration: none;
+    color: rgb(245, 241, 241);
+
+}
+#h101{
+    text-decoration: none;
+    color: black;
+
+}
+#div11{
+    float: left;
+    
+    margin-left: 150px;
+   
+    line-height: 25px;
+
+    
+}
+#div11>a{
+    margin-left: 0px;
+    margin-top: -100px;
+    padding-left: 0px;
+    text-decoration: none;
+    color: rgb(240, 237, 237);
+
+}
+#h102{
+    text-decoration: none;
+    color: black;
+
+}
+#div123{
+    float: left;
+    margin-left: 150px;
+   
+    line-height: 25px;
+
+    
+}
+#div123>a{
+    margin-left: 40px;
+    padding-left: 40px;
+    text-decoration: none;
+    color: rgb(248, 246, 246);
+
+}
+#h103{
+    text-decoration: none;
+    color: black;
+
+}
+#divl22{
+    margin-top: -10px;
+    float :right;
+    width: 25%;
+    height: 220px;
+    margin-right: 30px;
+
+}
+#divl22 h1{
+    margin-top: 10px;
+    text-align: center  ;
+    font-size: 20px;
+  
+    padding-right: 30px;
+
+ }
+ #divl22 h2{
+    margin-top: 10px;
+    text-align: center;
+    min-height: 50px;
+    line-height: 50px;
+     font-size: 18px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     background-color:#ffae39;
+     border-radius: 10px;
+     width: 90%;
+     box-shadow: 1px 1px  3px rgb(73, 63, 63);
+  }
+  #divl22 h2:hover{
+
+    background-color: #f48120;
+
+  }
+
+  #cseenqe{
+    margin-top: -10px;
+    float :right;
+    width: 25%;
+    height: 220px;
+    margin-right: 500px;
+
+}
+
+ #cseenqe h2{
+    margin-top: 10px;
+    text-align: center;
+    min-height: 50px;
+    line-height: 50px;
+     font-size: 18px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     background-color: #0196C0;
+     border-radius: 10px;
+     width: 90%;
+     box-shadow: 1px 1px  3px rgb(73, 63, 63);
+  }
+
+  #cseenq{
+    margin-top: -10px;
+    float :right;
+    width: 25%;
+    height: 220px;
+    margin-right: 500px;
+
+}
+
+ #cseenq h2{
+    margin-top: 10px;
+    text-align: center;
+    min-height: 50px;
+    line-height: 50px;
+     font-size: 18px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     background-color: #0196C0;
+     border-radius: 10px;
+     width: 90%;
+     box-shadow: 1px 1px  3px rgb(73, 63, 63);
+  }
+  #h2:hover{
+
+    background-color: #f48120;
+
+  }
+
+
+  #cseenqec{
+    margin-top: -10px;
+    float :right;
+    width: 25%;
+    height: 220px;
+    margin-right: 500px;
+
+}
+
+ #cseenqec h2{
+    margin-top: -40px;
+    text-align: center;
+    min-height: 50px;
+    line-height: 50px;
+     font-size: 18px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     background-color: #0196C0;
+     border-radius: 10px;
+     width: 90%;
+     box-shadow: 1px 1px  3px rgb(73, 63, 63);
+  }
+
+
+
+
+
+  a{
+    color: black;
+    text-decoration: none;
+  }

@@ -1,0 +1,386 @@
+#div1{
+    margin-top: -10px;
+    background-color: white;
+    min-height: 70px;
+    border: 2px solid ;
+    width: 100%;
+    margin-left: -10px;
+    box-shadow: -0px 2px 4px black;
+    position: fixed;
+    
+}
+#nav1{
+ 
+    float: left;
+    line-height: 70px;
+    
+   
+   
+    
+
+}
+#nav1 a{
+
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+    color:#242323;
+    font-weight: 100px;
+    font-size: 17px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+#div12{
+    float: right;
+    padding: 10px;
+    height: 20px;
+    margin-left: 760px; 
+    
+    border-radius: 10px;
+}
+#div12>a{
+    background-color: rgb(15, 15, 15);
+    color: rgb(248, 244, 244);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+
+}
+#div2{
+    padding-top: 70px;
+    height: 400px;
+    margin-right: 10px;
+    margin-left: -10px;
+    background-color: #f48120;
+    background-clip:content-box;
+    
+
+}
+#div21 {
+    height: 340px;
+    width: 47%;
+    float: left;
+    margin-left: 65px;
+    margin-top: 20px;
+    margin-top: 40px;
+   
+
+    
+                                                                            
+}
+#div21 h1{
+    font-family: "Poppins", Sans-serif;
+    font-size: 38px;
+    font-weight: 600px;
+    padding: 15px;
+    color: #131212;
+}
+#div21 p{
+    margin-top: -40px;
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 15px;
+    width: 100%;
+    color: #ffff;
+   
+
+  
+}
+
+#div22{
+    float:right;
+    margin-left: 20px;
+   margin-top: -390px;
+   
+}
+#div23{
+    margin-top: 60px;
+    margin-left: 20px;
+    width: 200px;
+    min-height:50px;
+    background-color: rgb(42, 43, 43);
+    border-radius: 15px;
+    text-align: center;
+    padding-top: -10px;
+    
+   
+}
+#div23 a{
+    color: white;
+    line-height:50px ;
+    font-weight: 600px;
+    font-size: 18px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    
+}
+#div23:hover{
+    background-color:rgb(245, 159, 79);
+
+}
+
+
+#h2why{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    text-align: center  ;
+    text-decoration:dotted;
+}
+#div8{
+    
+    box-shadow: 2px 2px 6px  black;
+ 
+    height: 480px;
+    display:flex;
+ 
+    
+}
+#div8>h1{
+    font-weight: bold;
+    justify-content: center;
+    color: #696b6f;
+}
+#div81{    
+   margin-left: 150px;
+    margin-right: 50px; 
+    margin-top: 100px;
+    height:350px;
+    width:30%;
+    box-shadow: 2px 2px 10px rgb(8, 8, 8);
+    border-radius: 10px;
+    border: 2px solid rgb(4, 233, 225);
+}
+#div81>h4{
+    margin-left: 20px;
+}
+#div81>h2{
+    margin-left: 20px;
+    font-size: 20px;
+}
+#div81>h5{
+    margin-left: 20px;
+    margin-top: -10px;
+    font-size: 12px;
+}
+#div81>a{
+    margin-left: 20px;
+    text-decoration: none;
+    color: rgb(21, 174, 235);
+}
+#div81>#a1{
+    margin-left: 20px;
+    text-decoration: none;
+    background-color: black;
+    border-radius: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white
+
+
+}
+
+
+
+
+
+#div82{
+    margin-top: 100px;
+    margin-right: 200px; 
+    box-shadow: 2px 2px 6px black;
+    height:350px;
+    width:30%;
+    border: 2px solid rgb(0, 247, 255);
+    border-radius: 10px;
+    
+}
+#div82>h4{
+    margin-left: 20px;
+}
+#div82>h2{
+    margin-left: 20px;
+    font-size: 20px;
+}
+#div82>h5{
+    margin-left: 20px;
+    margin-top: -10px;
+    font-size: 12px;
+}
+#div82>a{
+    margin-left: 20px;
+    text-decoration: none;
+    
+    color:rgb(4, 178, 247);
+}
+#div82>#a1{
+    margin-left: 20px;
+    text-decoration: none;
+    background-color: black;
+    border-radius: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white
+}
+
+
+
+
+
+#div83{
+  
+  margin-top: 100px;
+  margin-right: 50px;
+
+    height:350px;
+    width:30%;
+    border: 2px solid rgb(14, 248, 236);
+    box-shadow: 2px 2px 6px black;
+    border-radius: 10px;
+    
+    
+}
+#div83>h4{
+    margin-left: 20px;
+    color: red;
+    font-size: 20px;
+    
+}
+#div83>h2{
+    margin-left: 20px;
+    font-size: 18px;
+}
+#div83>h5{
+    margin-left: 20px;
+    margin-top: -10px;
+    font-size: 12px;
+}
+#div83>a{
+    margin-left: 20px;
+    text-decoration: none;
+    color: rgb(8, 172, 236);
+    border-radius: 10px;
+}
+#div83>#a1{
+    margin-left: 20px;
+    text-decoration: none;
+    background-color: black;
+    border-radius: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    float: left;
+   
+}
+
+
+#div1012{
+    background-color: #0196C0;
+    height: 400px;
+   
+
+}
+#div10{
+    float: left;
+    padding-left: 40px;
+    line-height: 25px;
+}
+
+#div10>a{
+    margin-left: -10px;
+    padding-left: 40px;
+    text-decoration: none;
+    color: rgb(245, 241, 241);
+
+}
+#h101{
+    text-decoration: none;
+    color: black;
+
+}
+#div11{
+    float: left;
+    margin-top: 30px;
+    margin-left: 150px;
+   
+    line-height: 25px;
+
+    
+}
+#div11>a{
+    margin-left: -40px;
+    margin-top: -100px;
+    padding-left: 40px;
+    text-decoration: none;
+    color: rgb(240, 237, 237);
+
+}
+#h102{
+    text-decoration: none;
+    color: black;
+
+}
+#div123{
+    float: left;
+    margin-left: 150px;
+   
+    line-height: 25px;
+
+    
+}
+#div123>a{
+    margin-left: 40px;
+    padding-left: 40px;
+    text-decoration: none;
+    color: rgb(248, 246, 246);
+
+}
+#h103{
+    text-decoration: none;
+    color: black;
+
+}
+#divl22{
+    margin-top: 40px;
+    float :right;
+    width: 25%;
+    height: 20px;
+    margin-right: 60px;
+
+}
+#divl22 h1{
+    margin-top: 20px;
+    text-align: center  ;
+    font-size: 20px;
+  
+    padding-right: 30px;
+
+ }
+ #divl22 h2{
+    margin-top: 10px;
+    text-align: center;
+    min-height: 50px;
+    line-height: 50px;
+     font-size: 18px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     background-color:#ffae39;
+     border-radius: 10px;
+     width: 90%;
+     box-shadow: 1px 1px  3px rgb(73, 63, 63);
+  }
+  #divl22 h2:hover{
+
+    background-color: #f48120;
+
+  }
+
+
+
+a{
+    text-decoration: none;
+}
